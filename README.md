@@ -13,7 +13,7 @@ Each file is named after the problem, for example:
 
 ---
 # JavaScript
--[2820 Return Length of Arguments Passed]((https://github.com/Mohit-Raj2005/LeetCode-Solutions/blob/main/2820-return-length-of-arguments-passed/return-length-of-arguments-passed.js))
+-[2820 Return Length of Arguments Passed](https://github.com/Mohit-Raj2005/LeetCode-Solutions/blob/main/2820-return-length-of-arguments-passed/return-length-of-arguments-passed.js)
 
 ## 🎯 Purpose
 - Track my progress solving LeetCode problems.  
