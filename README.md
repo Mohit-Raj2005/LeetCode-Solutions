@@ -12,6 +12,8 @@ Each file is named after the problem, for example:
 
 
 ---
+#JavaScript
+-[2820 Return Length of Arguments Passed](return-length-of-arguments-passed.js)
 
 ## 🎯 Purpose
 - Track my progress solving LeetCode problems.  
