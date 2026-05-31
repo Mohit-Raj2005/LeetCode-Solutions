@@ -16,6 +16,8 @@ Each file is named after the problem, for example:
 -[2703 Return Length of Arguments Passed](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/2703-return-length-of-arguments-passed)
 
 -[2704. To Be Or Not To Be](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/2704-to-be-or-not-to-be)
+# Java
+-[268. missing-number](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/268-missing-number)
 
 ## 🎯 Purpose
 - Track my progress solving LeetCode problems.  
