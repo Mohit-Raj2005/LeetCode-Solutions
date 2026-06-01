@@ -17,6 +17,8 @@ Each file is named after the problem, for example:
 
 -[1. Two Sum](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/1-two-sum)
 
+-[26. Remove Duplicates from Sorted Array](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/26-remove-duplicates-from-sorted-array)
+
 ---
 
 # JavaScript
