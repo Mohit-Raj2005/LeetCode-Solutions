@@ -21,6 +21,8 @@ Each file is named after the problem, for example:
 
 -[287. Find the Duplicate Number](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/287-find-the-duplicate-number)
 
+-[724. Find Pivot Index](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/724-find-pivot-index)
+
 ---
 
 # JavaScript
