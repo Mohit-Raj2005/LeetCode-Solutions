@@ -19,6 +19,8 @@ Each file is named after the problem, for example:
 
 -[26. Remove Duplicates from Sorted Array](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/26-remove-duplicates-from-sorted-array)
 
+-[287. Find the Duplicate Number](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/287-find-the-duplicate-number)
+
 ---
 
 # JavaScript
