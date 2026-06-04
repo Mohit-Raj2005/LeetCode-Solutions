@@ -25,6 +25,8 @@ Each file is named after the problem, for example:
 
 -[448. Find All Numbers Disappeared in an Array](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/448-find-all-numbers-disappeared-in-an-array)
 
+-[53. Maximum Subarray](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/53-maximum-subarray)
+
 ---
 
 # JavaScript
