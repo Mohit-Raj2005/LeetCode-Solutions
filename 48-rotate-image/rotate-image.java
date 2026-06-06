@@ -1,3 +1,11 @@
+// [INTERVIEW IMPORTANT]
+//Amazon, Paytm , Microsoft , Adobe
+//SOlUTION APPROACH
+//Step 1: Taking the transpose of the input matrix
+//Step 2: Reversing each row of the transpose matrix will give us the rotated matrix clockwise
+        //Step 2.1: we will be going to each row
+        //Step 2.2: we will be reversing each row using two pointer approach like in 1D arrray
+// and reversing each column would same as anticlockwise
 class Solution {
     public void rotate(int[][] matrix) {
         int n= matrix.length;
