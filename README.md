@@ -27,6 +27,8 @@ Each file is named after the problem, for example:
 
 -[53. Maximum Subarray](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/53-maximum-subarray)
 
+-[898. Transpose Matrix](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/898-transpose-matrix)
+
 ---
 
 # JavaScript
