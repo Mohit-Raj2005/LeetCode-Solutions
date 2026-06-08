@@ -29,6 +29,8 @@ Each file is named after the problem, for example:
 
 -[898. Transpose Matrix](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/898-transpose-matrix)
 
+-[48. Rotate Image](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/48-rotate-image)
+
 ---
 
 # JavaScript
