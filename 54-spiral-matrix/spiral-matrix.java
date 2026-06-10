@@ -7,28 +7,29 @@ class Solution {
     ArrayList<Integer> spiralArray = new ArrayList<>();
     while(startingrow<=endingrow && startingcol<=endingcol){
         //row wise L->R  -->from startingcol to endingcol
-        for(int i=startingcol;i<=endingcol;i++){
-        spiralArray.add(matrix[startingrow][i]);  
+        for(int col=startingcol;col<=endingcol;col++){
+        spiralArray.add(matrix[startingrow][col]);  
         }
         startingrow++;
         //Column wise T->B ---> from startingrow to endingrow
-        for(int j=startingrow;j<=endingrow;j++){
-            spiralArray.add(matrix[j][endingcol]);  
+        for(int row=startingrow;row<=endingrow;row++){
+            spiralArray.add(matrix[row][endingcol]);  
         }
         endingcol--;
         //row wise R->L ---> from endingcol to startingcol
         //but checking if there is any valid row to print
         if(startingrow<=endingrow){
-            for(int k = endingcol;k>=startingcol;k--){
-            spiralArray.add(matrix[endingrow][k]);
+            for(int col = endingcol;col>=startingcol;col--){ 
+            spiralArray.add(matrix[endingrow][col]);
         }
         endingrow--;
         }
         
         //Column wise B->T --> from endingrow to startingrow
         //but checking if there is any valid column to print
-        if(startingcol<=endingcol){for(int l = endingrow;l>=startingrow;l--){
-         spiralArray.add(matrix[l][startingcol]);  
+        if(startingcol<=endingcol){
+        for(int row = endingrow;row>=startingrow;row--){
+         spiralArray.add(matrix[row][startingcol]);  
         }
         startingcol++;
         }
