@@ -31,6 +31,8 @@ Each file is named after the problem, for example:
 
 -[48. Rotate Image](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/48-rotate-image)
 
+-[54. Spiral Matrix](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/54-spiral-matrix)
+
 ---
 
 # JavaScript
