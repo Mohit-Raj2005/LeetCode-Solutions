@@ -35,7 +35,9 @@ Each file is named after the problem, for example:
 
 -[792. Binary Search](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/792-binary-search)
 
--[387.First Unique Character in a string)](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/387-first-unique-character-in-a-string)
+-[387.First Unique Character in a string](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/387-first-unique-character-in-a-string)
+
+-[258. Add Digits](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/258-add-digits)
 
 ---
 
