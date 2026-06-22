@@ -1,22 +1,23 @@
 class Solution {
     public int arraySign(int[] nums){
-        int negcount = 0;
-        for(int i = 0; i < nums.length ; i++){
+        //this is a more optimized solution to this problem
+        int negcount = 0;  // intialising count for total number of -ve integers
+        for(int i = 0; i < nums.length ; i++){   // iterating over the array
             if(nums[i]==0){
-                return 0;
+                return 0;   // if the array contains 0 then we will return 0
             }
-            else if(nums[i]<0){
-                negcount++;
+            else if(nums[i]<0){   
+                negcount++;    // increasing the negcount if the current iteration element i -ve
             }
             else{
-                continue;
+                continue;  // skipping iteration for +ve elements
             }
         }
-        if(negcount % 2 == 0 ){
+        if(negcount % 2 == 0 ){   // if it has even -ve integers the overall ans will be +ve thus returning 1
             return 1;
         }
         else{
-            return -1;
+            return -1;   //if it has odd -ve integers the overall ans will be -ve thus returning -1
         }
     }
 
