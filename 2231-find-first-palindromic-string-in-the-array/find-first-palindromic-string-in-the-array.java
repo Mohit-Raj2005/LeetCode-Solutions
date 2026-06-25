@@ -1,12 +1,12 @@
 class Solution {
     //method 1
     public String firstPalindrome(String[] words) {
-        for(String word:words){
+        for(String word:words){  // for each word in words
             int start = 0;
             int end = word.length()-1;
-            boolean ispalindrome = true;
+            boolean ispalindrome = true;  
             while(start<=end){
-            if(word.charAt(start)!=word.charAt(end)){
+            if(word.charAt(start)!=word.charAt(end)){  // checking palindrome
                 ispalindrome = false;
                 break; 
             }
@@ -14,7 +14,7 @@ class Solution {
             end--;
             }
             if(ispalindrome){
-                return word;
+                return word;  // returning the word if it is a palindrome
             }
 
         }
