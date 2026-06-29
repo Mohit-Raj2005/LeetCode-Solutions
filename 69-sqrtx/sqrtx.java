@@ -28,6 +28,26 @@ class Solution {
             }
         }
         }
+
+        // //calculating till precission   just for understanding and not to do with the solution of this problem
+        // double factor = 1;
+        // for(int i =0; i<3;i++){
+        //     factor = factor /10;
+        //      for(int i = 0; i<10;i++){
+        //     int newans = ans + factor;
+        //     if(newans*newans == x){
+        //         return newans;
+        //     }
+        //      else if(newans*newans < x){
+        //          ans = newans;
+        //            }
+        //     else{
+        //         break;
+        //     }
+        //    }
+            
+        // }
+
         return ans;
     }
 }
