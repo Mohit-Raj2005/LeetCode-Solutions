@@ -1,1 +1,1 @@
-<h2>split-array-largest-sum Notes</h2><hr>[ Time taken: 10hrs 55m 25s ]
+<h2>split-array-largest-sum Notes</h2><hr>[ Time taken: 11hrs 5m 35s ]
