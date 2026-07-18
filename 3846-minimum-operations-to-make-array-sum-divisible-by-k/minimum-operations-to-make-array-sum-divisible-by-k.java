@@ -7,3 +7,5 @@ class Solution {
         return sum % k;                         // this would be the minimum operations to make the sum divisible by k
     }
 }
+
+// we may use for each loop to calculate the sum to make it more optimised
