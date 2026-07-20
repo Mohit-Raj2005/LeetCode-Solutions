@@ -41,6 +41,8 @@ Each file is named after the problem, for example:
 
 -[2271. Rearrange Array Elements By Sign](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/2271-rearrange-array-elements-by-sign)
 
+-[742. to-lower-case](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/742-to-lower-case)
+
 ---
 
 # JavaScript
