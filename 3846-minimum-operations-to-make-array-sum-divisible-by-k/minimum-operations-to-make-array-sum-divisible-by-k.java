@@ -15,7 +15,7 @@ class Solution {
          for(int num : nums){   // this is a similar solution but using for each loop to make it more optimised 
             sum += num;
          }
-         int ans = sum % k;
-         return ans;
+          return sum % k;
+         
     }
 }
