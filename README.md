@@ -43,6 +43,8 @@ Each file is named after the problem, for example:
 
 -[742. to-lower-case](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/742-to-lower-case)
 
+-[882. Peak-index-in-a-mountain-array](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/882-peak-index-in-a-mountain-array)
+
 ---
 
 # JavaScript
