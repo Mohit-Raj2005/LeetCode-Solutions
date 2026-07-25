@@ -45,6 +45,8 @@ Each file is named after the problem, for example:
 
 -[882. Peak-index-in-a-mountain-array](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/882-peak-index-in-a-mountain-array)
 
+-[9. palindrome-number](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/9-palindrome-number)
+
 ---
 
 # JavaScript
