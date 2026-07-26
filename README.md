@@ -47,6 +47,8 @@ Each file is named after the problem, for example:
 
 -[9. palindrome-number](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/9-palindrome-number)
 
+-[1791. Richest-customer-wealth](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/1791-richest-customer-wealth)
+
 ---
 
 # JavaScript
