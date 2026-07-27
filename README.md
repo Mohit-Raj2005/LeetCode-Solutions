@@ -58,6 +58,8 @@ Each file is named after the problem, for example:
 
 -[4168. Mirror-distance-of-an-integer](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/4168-mirror-distance-of-an-integer)
 
+-[2575. Minimum-cuts-to-divide-a-circle](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/2575-minimum-cuts-to-divide-a-circle)
+
 --- 
 
 
