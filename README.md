@@ -49,6 +49,12 @@ Each file is named after the problem, for example:
 
 -[1791. Richest-customer-wealth](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/1791-richest-customer-wealth)
 
+-[4168. Mirror-distance-of-an-integer](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/4168-mirror-distance-of-an-integer)
+
+-[2575. Minimum-cuts-to-divide-a-circle](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/2575-minimum-cuts-to-divide-a-circle)
+
+-[1013. fibonacci-number](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/1013-fibonacci-number)
+
 ---
 
 # JavaScript
@@ -56,11 +62,6 @@ Each file is named after the problem, for example:
 
 -[2704. To Be Or Not To Be](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/2704-to-be-or-not-to-be)
 
--[4168. Mirror-distance-of-an-integer](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/4168-mirror-distance-of-an-integer)
-
--[2575. Minimum-cuts-to-divide-a-circle](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/2575-minimum-cuts-to-divide-a-circle)
-
--[1013. fibonacci-number](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/1013-fibonacci-number)
 
 --- 
 
