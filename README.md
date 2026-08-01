@@ -55,6 +55,8 @@ Each file is named after the problem, for example:
 
 -[1013. fibonacci-number](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/1013-fibonacci-number)
 
+-[3321. Type-of-triangle](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/3321-type-of-triangle)
+
 ---
 
 # JavaScript
