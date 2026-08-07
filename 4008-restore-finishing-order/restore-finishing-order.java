@@ -8,8 +8,7 @@ class Solution {
         int k = 0;
         for(int i = 0; i<order.length ; i++){
             if(friend.contains(order[i])){
-                ans[k] = order[i];
-                k++;
+                ans[k++] = order[i];
             }
         }
         return ans;
