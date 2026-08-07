@@ -16,3 +16,5 @@ class Solution {
         return result;
     }
 }
+
+// can be optimized by introducing a max variable for the max in candies and then compare rather than adding it to a list and then comparing 
