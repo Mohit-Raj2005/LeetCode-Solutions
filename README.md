@@ -57,6 +57,8 @@ Each file is named after the problem, for example:
 
 -[3321. Type-of-triangle](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/3321-type-of-triangle)
 
+-[909. Stone-game](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/909-stone-game)
+
 ---
 
 # JavaScript
