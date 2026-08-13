@@ -61,6 +61,8 @@ Each file is named after the problem, for example:
 
 -[65. Robot-return-to-origin](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/657-robot-return-to-origin)
 
+-[898. Transpose-matrix](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/898-transpose-matrix)
+
 ---
 
 # JavaScript
