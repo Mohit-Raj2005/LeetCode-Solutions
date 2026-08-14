@@ -63,6 +63,8 @@ Each file is named after the problem, for example:
 
 -[898. Transpose-matrix](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/898-transpose-matrix)
 
+-[4321. Digit-frequency-score](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/4321-digit-frequency-score)
+
 ---
 
 # JavaScript
