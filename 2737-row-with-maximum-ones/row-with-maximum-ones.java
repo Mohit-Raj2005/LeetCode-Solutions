@@ -1,4 +1,5 @@
-// class Solution {
+// method 1 is the binary search method which works only when each row of the 2d matrix is sorte but here, no such condition is given thus the below brute force method will work in which we will be iterating each and every row of the matrix and count the number of ones 
+//class Solution {
 //     static int firstOccurenceOne(int[][]mat, int row){
 //         int start = 0;
 //         int end = mat[0].length - 1;
