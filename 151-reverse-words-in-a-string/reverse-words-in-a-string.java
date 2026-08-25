@@ -9,6 +9,7 @@ class Solution {
             }
             int j = i;
             // moving j to the starting index of the word 
+            // finding the start index of the word 
             while(j >= 0 && s.charAt(j) != ' '){
                 j--;
             }
