@@ -8,9 +8,9 @@ class Solution {
                 // char ch = words[i].charAt(j);
                 sum += weights[words[i].charAt(j) - 'a'];
             }
-            System.out.println(sum);
-             map = sum % 26;
-            ans.append((char)('z' - map));
+            // map = sum % 26;
+            sum = sum % 26;
+            ans.append((char)('z' - sum));
         }
         return ans.toString();
     }
