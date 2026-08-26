@@ -3,7 +3,7 @@ class Solution {
         StringBuilder ans = new StringBuilder();
         for(int i = 0; i< words.length ; i++){
             int sum = 0;
-            int map = 0;
+            // int map = 0;
             for(int j = 0; j < words[i].length(); j++){
                 // char ch = words[i].charAt(j);
                 sum += weights[words[i].charAt(j) - 'a'];
