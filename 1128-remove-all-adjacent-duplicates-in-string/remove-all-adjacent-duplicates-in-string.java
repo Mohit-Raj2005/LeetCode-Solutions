@@ -1,20 +1,17 @@
 class Solution {
     public String removeDuplicates(String s) {
-        StringBuilder ans = new StringBuilder();  // creating the stringbuilder 
-        for(int i =0; i < s.length() ; i++){
+        StringBuilder ans = new StringBuilder(); // creating the stringbuilder 
+        for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
-            if(ans.length() == 0){
+            if (ans.length() == 0) {
                 ans = ans.append(ch);
             }
 
-            else if(ans.charAt(ans.length() - 1) == ch){
+            else if (ans.charAt(ans.length() - 1) == ch) {
                 ans.deleteCharAt(ans.length() - 1);
-            }
-            else{
+            } else {
                 ans.append(ch);
             }
-
-
         }
         return ans.toString();
     }
