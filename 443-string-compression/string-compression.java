@@ -1,0 +1,26 @@
+class Solution {
+    public int compress(char[] chars) {
+        int readIndex = 0;
+        int writeIndex = 0;
+        while(readIndex < chars.length){
+            char currentChar = chars[readIndex];
+            int count = 0;
+            while(readIndex < chars.length && currentChar == chars[readIndex]){
+                count++;
+                readIndex++;
+                
+            }
+
+            chars[writeIndex] = currentChar;
+            writeIndex++;
+            if(count > 1){
+                String CountChar = String.valueOf(count);
+                for(char Digit : CountChar.toCharArray()){
+                    chars[writeIndex] = Digit;
+                    writeIndex++;
+                }
+            }
+        }
+        return writeIndex;
+    }
+}
