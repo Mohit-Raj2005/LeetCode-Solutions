@@ -67,7 +67,9 @@ Each file is named after the problem, for example:
 
 -[3172. Divisible-and-non-divisible-sums-difference](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/3172-divisible-and-non-divisible-sums-difference)
 
--[](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/2083-three-divisors)
+-[2083-three-divisors](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/2083-three-divisors)
+
+-[1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/1128-remove-all-adjacent-duplicates-in-string)
 
 ---
 
