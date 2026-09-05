@@ -15,8 +15,8 @@ class Solution {
         }
         for(int m = 0; m<nums.length; m++){
             if(prefixMax[m] - suffixMin[m] <= k){
-                // stableIndex = m;
-                return m;
+                 stableIndex = m;
+                return stableIndex;
             }
         }
         return stableIndex;
