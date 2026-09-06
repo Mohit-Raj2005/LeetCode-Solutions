@@ -71,6 +71,8 @@ Each file is named after the problem, for example:
 
 -[1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/1128-remove-all-adjacent-duplicates-in-string)
 
+-[443-string-compression](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/443-string-compression)
+
 ---
 
 # JavaScript
