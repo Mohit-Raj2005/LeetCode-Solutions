@@ -4,7 +4,7 @@ class Solution {
             return 0;
         }
         else{
-            return n - 999;
+            return n - 1000 + 1;
         }
 
 
