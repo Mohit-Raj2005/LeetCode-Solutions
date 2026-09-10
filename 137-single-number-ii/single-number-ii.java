@@ -13,3 +13,4 @@ class Solution {
         return answer;
     }
 }
+//this problem also needs to be solved using bit manipulation but i have solved it using hashmap and it is very inefficient so we should think about bit manipulation
