@@ -8,3 +8,5 @@ class Solution {
         return arr;
     }
 }
+
+// the conept is that if a ^ b = c then a = b ^ c
