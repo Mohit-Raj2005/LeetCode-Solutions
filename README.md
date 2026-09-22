@@ -75,6 +75,8 @@ Each file is named after the problem, for example:
 
 -[4299-concatenate-array-with-reverse](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/4299-concatenate-array-with-reverse)
 
+-[866. Rectangle Overlap](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/866-rectangle-overlap)
+
 ---
 
 # JavaScript
