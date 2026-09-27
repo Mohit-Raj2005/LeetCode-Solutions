@@ -77,6 +77,8 @@ Each file is named after the problem, for example:
 
 -[866. Rectangle Overlap](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/866-rectangle-overlap)
 
+-[2048. Build-array-from-permutation](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/2048-build-array-from-permutation)
+
 ---
 
 # JavaScript
