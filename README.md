@@ -79,6 +79,8 @@ Each file is named after the problem, for example:
 
 -[2048. Build-array-from-permutation](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/2048-build-array-from-permutation)
 
+-[4058. Compute-alternating-sum](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/4058-compute-alternating-sum)
+
 ---
 
 # JavaScript
