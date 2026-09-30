@@ -81,6 +81,8 @@ Each file is named after the problem, for example:
 
 -[4058. Compute-alternating-sum](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/4058-compute-alternating-sum)
 
+-[3811. Reverse-degree-of-a-string](https://github.com/Mohit-Raj2005/LeetCode-Solutions/tree/main/3811-reverse-degree-of-a-string)
+
 ---
 
 # JavaScript
