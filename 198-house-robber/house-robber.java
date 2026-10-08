@@ -14,7 +14,6 @@ class Solution {
         memo[index] = ans;
         return ans;
     }
-
     public int rob(int[] nums) {
         int[] memo = new int[nums.length];
         for(int j = 0; j < nums.length;j++){
