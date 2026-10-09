@@ -11,7 +11,6 @@ class Solution {
             int newSum = accumulatedSum + mat[row][c];
             int next = solve(mat, target, newSum, row + 1,dp);
             ans = Math.min(ans, next);
-            // dp[row][accumulatedSum] = ans;
         }
         dp[row][accumulatedSum] = ans;
         // return ans;
