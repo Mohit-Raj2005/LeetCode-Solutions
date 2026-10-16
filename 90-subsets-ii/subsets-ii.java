@@ -1,9 +1,7 @@
 class Solution {
     static void solve(List<List<Integer>> ans, int[] nums, List<Integer> set, int index) {
         if (index >= nums.length) {
-            // Collections.sort(set);
             if (ans.contains(set) == false) {
-                // Collections.sort(set);
                 ans.add(new ArrayList<>(set));
             }
             return;
